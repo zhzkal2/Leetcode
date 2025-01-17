@@ -1,7 +1,6 @@
 function createHelloWorld() {
     
     return function(...args): string {
-        console.log(args)
 
         return "Hello World"
         
