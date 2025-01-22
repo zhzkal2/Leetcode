@@ -16,7 +16,6 @@ function compose(functions: F[]): F {
         }
     }
     
-
 };
 
 /**
